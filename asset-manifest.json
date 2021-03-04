@@ -1,0 +1,23 @@
+{
+  "main.css": "/conference-badges​/static/css/main.d6cfa801.chunk.css",
+  "main.js": "/conference-badges​/static/js/main.09286119.chunk.js",
+  "main.js.map": "/conference-badges​/static/js/main.09286119.chunk.js.map",
+  "runtime~main.js": "/conference-badges​/static/js/runtime~main.97e66cc7.js",
+  "runtime~main.js.map": "/conference-badges​/static/js/runtime~main.97e66cc7.js.map",
+  "static/css/2.7058ddee.chunk.css": "/conference-badges​/static/css/2.7058ddee.chunk.css",
+  "static/js/2.46b60d3f.chunk.js": "/conference-badges​/static/js/2.46b60d3f.chunk.js",
+  "static/js/2.46b60d3f.chunk.js.map": "/conference-badges​/static/js/2.46b60d3f.chunk.js.map",
+  "index.html": "/conference-badges​/index.html",
+  "precache-manifest.df90e21f7626c8b620fc5b58a67d6b0c.js": "/conference-badges​/precache-manifest.df90e21f7626c8b620fc5b58a67d6b0c.js",
+  "service-worker.js": "/conference-badges​/service-worker.js",
+  "static/css/2.7058ddee.chunk.css.map": "/conference-badges​/static/css/2.7058ddee.chunk.css.map",
+  "static/css/main.d6cfa801.chunk.css.map": "/conference-badges​/static/css/main.d6cfa801.chunk.css.map",
+  "static/media/404.svg": "/conference-badges​/static/media/404.9623db08.svg",
+  "static/media/500Error.svg": "/conference-badges​/static/media/500Error.4fb20dfb.svg",
+  "static/media/BadgesList.css": "/conference-badges​/static/media/LogoBlue.5c23880d.svg",
+  "static/media/astronauts.svg": "/conference-badges​/static/media/astronauts.71addf45.svg",
+  "static/media/badge-header.svg": "/conference-badges​/static/media/badge-header.973f5842.svg",
+  "static/media/logo.svg": "/conference-badges​/static/media/logo.0026b862.svg",
+  "static/media/platziconf-logo.svg": "/conference-badges​/static/media/platziconf-logo.f246f5f1.svg",
+  "static/media/BadgeDetails.css": "/conference-badges​/static/media/stars.1d17360a.svg"
+}
