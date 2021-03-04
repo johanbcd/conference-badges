@@ -1,0 +1,15 @@
+.NotFound__container{
+    width: 100%;
+    min-height: calc(100vh - 60px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.NotFound__container-image{
+    width: 40%;
+}
+@media screen and (max-width: 768px) {
+    .NotFound__container-image{
+        width: 70%;
+    }
+}
