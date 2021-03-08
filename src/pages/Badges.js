@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/Badges.css';
-import confLogo from '../images/badge-header.svg'
+import confLogo from '../images/tech.svg'
 import BadgesList from '../componentes/BadgesList';
 import {Link} from 'react-router-dom';
 import api from '../api';

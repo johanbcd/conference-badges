@@ -1,3 +1,16 @@
+.Filter_Badges{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Filter_Badges input{
+    width:50%;
+}
+.Filter_Badges label{
+    margin-right: 10px;
+    font-weight: bolder;
+}
 .BadgesList ul>li {
     margin-bottom: 1rem;
 }

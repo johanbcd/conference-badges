@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/Bage.css';
-import confLogo from '../images/badge-header.svg';
+import confLogo from '../images/icon.svg';
 import Gravatar from './Gravatar';
 
 class Badge extends React.Component {
@@ -33,7 +33,7 @@ class Badge extends React.Component {
         <div>@{twitter}</div>
         </div>
 
-        <div className="Badge_footer">#platziconf</div>
+        <div className="Badge_footer">#techconf</div>
     </div>
     );
 }

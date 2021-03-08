@@ -31,7 +31,7 @@ function BadgesList(props){
     if(filterBadges.length ===0){
         return(
         <div>
-            <div className="from-group mb-4">
+            <div className="from-group mb-4 Filter_Badges">
                     <label htmlFor="">Filter badges</label>
                     <input type="text" className="form-control"
                         value={query}
@@ -46,8 +46,8 @@ function BadgesList(props){
     }
         return (
             <div className="BadgesList">
-                <div className="from-group mb-4">
-                    <label htmlFor="">Filter badges</label>
+                <div className="from-group mb-4 Filter_Badges">
+                    <label htmlFor="">Filter badges:</label>
                     <input type="text" className="form-control"
                         value={query}
                         onChange={(e)=>{

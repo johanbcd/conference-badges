@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/BadgeNew.css';
-import header from '../images/badge-header.svg';
+import header from '../images/tech.svg';
 import Badge from '../componentes/Badeg';
 import BadgeForm from '../componentes/BadgeForm'
 import PageLoading from '../componentes/PageLoading';
@@ -47,8 +47,12 @@ class BadgeNwe extends React.Component{
         }
         return(
             <div>
-                <div className="BadgeNew__hero">
-                    <img className="img-fluid" src={header} alt="Logo"></img>
+                <div className="Badges">
+                    <div className="BadgeNew__hero">
+                        <div className="BadgeNew__container">
+                            <img className="BadgeNew__hero-img" src={header} alt="Logo"></img>
+                        </div>
+                    </div>
                 </div>
                 <div className="container">
                     <div className="row">

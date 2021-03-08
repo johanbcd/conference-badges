@@ -1,9 +1,22 @@
 .BadgeNew__hero {
     width: 100%;
     padding: 2rem 0;
-    background: url('../../images/stars.svg') #1B1B25;
+    background: url('../../images/circuit.svg') #1B1B25;
     background-repeat: repeat;
     margin-bottom: 1rem;
     color: #ffffff;
-    text-align: center
-  }
+}
+.BadgeNew__hero>.BadgeNew__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.BadgeNew__container {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+  .BadgeNew__hero-img {
+    width:50%;
+}

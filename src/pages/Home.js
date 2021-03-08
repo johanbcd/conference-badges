@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import platziconfLogoImage from '../images/platziconf-logo.svg';
-import astronautsImage from '../images/astronauts.svg';
+import platziconfLogoImage from '../images/tech.svg';
+import astronautsImage from '../images/web-devices.svg';
 
 import './styles/Home.css';
 
@@ -14,11 +14,11 @@ class Home extends React.Component{
                 <div className="Home__col col-12 col-md-4">
                     <img
                     src={platziconfLogoImage}
-                    alt="Platzi Conf Logo"
-                    className="img-fluid mb-2"
+                    alt="Conf Logo"
+                    className="img-fluid md-6 Home__col-img"
                     />
 
-                    <h1>Badge Management System</h1>
+                    <h2>Badge Management System</h2>
                     <Link className="btn btn-primary" to="/badges">
                     Start
                     </Link>

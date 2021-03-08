@@ -30,6 +30,7 @@ class BadgeFrom extends React.Component {
                     type="text"
                     name="firstName"
                     value={this.props.formValues.firstName}
+                    required
                 />
                 </div>
 
@@ -41,6 +42,7 @@ class BadgeFrom extends React.Component {
                     type="text"
                     name="lastName"
                     value={this.props.formValues.lastName}
+                    required
                 />
                 </div>
 
@@ -52,6 +54,7 @@ class BadgeFrom extends React.Component {
                     type="email"
                     name="email"
                     value={this.props.formValues.email}
+                    required
                 />
                 </div>
 
@@ -63,6 +66,7 @@ class BadgeFrom extends React.Component {
                     type="text"
                     name="jobTitle"
                     value={this.props.formValues.jobTitle}
+                    required
                 />
                 </div>
 

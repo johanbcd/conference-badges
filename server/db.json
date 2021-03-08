@@ -1,15 +1,6 @@
 {
   "badges": [
     {
-      "id": "3f118941-b1be-44d8-83c2-c83aadef9ca6",
-      "firstName": "Kailee",
-      "lastName": "Jast keller",
-      "email": "Clement_Mills@hotmail.com",
-      "jobTitle": "Dynamic Implementation Engineer",
-      "twitter": "KaileeJast49404-0773",
-      "avatarUrl": "https://www.gravatar.com/avatar/32d63888a2b07663fb337eab85b91398?d=identicon"
-    },
-    {
       "id": "a181b291-ea1f-4296-b645-c1d5b2afc59c",
       "firstName": "Zane",
       "lastName": "vvgg",
@@ -20,16 +11,16 @@
     },
     {
       "firstName": "Johan",
-      "lastName": "Baracaldo Sanchez",
+      "lastName": "Baracaldo",
       "email": "johanbcd@gmail.com",
       "jobTitle": "Desarrollador",
       "twitter": "johanbcd",
       "id": "gjsjJsN"
     },
     {
-      "firstName": "FLor",
-      "lastName": "Baracaldo ",
-      "email": "elsabal27@gmail.com",
+      "firstName": "Maca",
+      "lastName": "Garcia",
+      "email": "macal27@gmail.com",
       "jobTitle": "Vendedora",
       "twitter": "lkmcf",
       "id": "-650e3d"
@@ -41,6 +32,14 @@
       "jobTitle": "Famosa",
       "twitter": "kimk",
       "id": "koa67-N"
+    },
+    {
+      "firstName": "Pedro",
+      "lastName": "Fernandez",
+      "email": "fernan@gmail.com",
+      "jobTitle": "Técnico",
+      "twitter": "pfer",
+      "id": "o05YJu6"
     }
   ]
 }

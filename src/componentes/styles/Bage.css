@@ -9,9 +9,12 @@
 .Badge_header {
   padding: 0.5rem 0;
   height: 80px;
-  background: #1b1b25;
+  background-color: #537072;
   display: flex;
   justify-content: center;
+}
+.Badge_header img{
+  width: 90px;
 }
 
 .Badge_section-name {

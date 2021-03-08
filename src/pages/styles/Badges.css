@@ -1,7 +1,7 @@
 .Badges__hero {
     width: 100%;
     padding: 2rem 0;
-    background: url('../../images/stars.svg'), #1B1B25;
+    background: url('../../images/circuit.svg') #1B1B25;
     background-repeat: repeat;
     margin-bottom: 1rem;
 }
@@ -20,7 +20,7 @@
 }
 
 .Badges_conf-logo {
-    margin-bottom: 2rem;
+    width:50%;
 }
 
 .Badges__buttons {

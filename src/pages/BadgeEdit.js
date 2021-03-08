@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/BadgeEdit.css';
-import header from '../images/badge-header.svg';
+import header from '../images/tech.svg';
 import Badge from '../componentes/Badeg';
 import BadgeForm from '../componentes/BadgeForm'
 import PageLoading from '../componentes/PageLoading';
