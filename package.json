@@ -1,5 +1,6 @@
 {
-  "name": "platzi-badges",
+  "homepage":"https://github.com/johanbcd/conference-badges",
+  "name": "badges",
   "version": "0.1.0",
   "private": true,
   "scripts": {
