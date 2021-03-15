@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6d6c2c2e7ec0ef54d41f",
+    "revision": "c87830ab6d895483eb00",
     "url": "/conference-badges/static/css/main.a675b564.chunk.css"
   },
   {
-    "revision": "6d6c2c2e7ec0ef54d41f",
-    "url": "/conference-badges/static/js/main.6d6c2c2e.chunk.js"
+    "revision": "c87830ab6d895483eb00",
+    "url": "/conference-badges/static/js/main.c87830ab.chunk.js"
   },
   {
     "revision": "23b91cf51302592641af",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/conference-badges/static/media/LogoBlue.5c23880d.svg"
   },
   {
-    "revision": "5c9ba603706ad0e6d20b1dcab7e457cf",
+    "revision": "b740b4868c23f4c20237bf766fac4acf",
     "url": "/conference-badges/index.html"
   }
 ];
