@@ -1,4 +1,4 @@
-const BASE_URL = 'https://my-json-server.typicode.com/johanbcd/conference-badges';
+const BASE_URL = 'http://localhost:3001';
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 const randomNumber = (min = 0, max = 1) =>
