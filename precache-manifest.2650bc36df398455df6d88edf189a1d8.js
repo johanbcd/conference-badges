@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e777123518f12f0b270c",
+    "revision": "3a79a37ffff1511c4ffa",
     "url": "/johanbcd/conference-badges/static/css/main.b196be4e.chunk.css"
   },
   {
-    "revision": "e777123518f12f0b270c",
-    "url": "/johanbcd/conference-badges/static/js/main.e7771235.chunk.js"
+    "revision": "3a79a37ffff1511c4ffa",
+    "url": "/johanbcd/conference-badges/static/js/main.3a79a37f.chunk.js"
   },
   {
     "revision": "5546d8f2eb3ba90d51ed",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/johanbcd/conference-badges/static/media/LogoBlue.5c23880d.svg"
   },
   {
-    "revision": "1064a5af87f3a80d7fb899ca76ae2881",
+    "revision": "fd8dc7273abc2532acf9d2c190b311a8",
     "url": "/johanbcd/conference-badges/index.html"
   }
 ];
